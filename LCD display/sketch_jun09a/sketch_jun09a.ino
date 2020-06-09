@@ -9,8 +9,5 @@ void setup(){
 
 void loop(){
   lcd.setCursor(0, 1);
-  lcd.print("Geita:");
-  
-  lcd.setCursor(7, 1);
-  lcd.print("25km");
+  lcd.print("JS Developer");
 }
