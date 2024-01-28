@@ -4,7 +4,7 @@ Welcome to the Arduino UNO R3 Basic Projects repository! This collection contain
 
 ## Projects Included
 
-1. [**4 Digital 7 Segment Display**](./01.lcd_screen_writer) - This project demonstrates the use of a 4-digit 7-segment display with Arduino UNO R3.
+1. [**4 Digital 7 Segment Display**](./4 Digital 7 Segment Display/sketch_jun19a) - This project demonstrates the use of a 4-digit 7-segment display with Arduino UNO R3.
 
 2. [**4x4 Keypad**](./02.temperature_humidity_on_lcd) - This project involves using a 4x4 keypad with Arduino UNO R3 for input.
 
