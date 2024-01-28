@@ -4,74 +4,53 @@ Welcome to the Arduino UNO R3 Basic Projects repository! This collection contain
 
 ## Projects Included
 
-1. **4 Digital 7 Segment Display**
-   - Description: This project demonstrates the use of a 4-digit 7-segment display with Arduino UNO R3.
+1. [**4 Digital 7 Segment Display**](./01.lcd_screen_writer) - This project demonstrates the use of a 4-digit 7-segment display with Arduino UNO R3.
 
-2. **4x4 Keypad**
-   - Description: This project involves using a 4x4 keypad with Arduino UNO R3 for input.
+2. [**4x4 Keypad**](./02.temperature_humidity_on_lcd) - This project involves using a 4x4 keypad with Arduino UNO R3 for input.
 
-3. **Active Buzzer**
-   - Description: This project uses an active buzzer controlled by Arduino UNO R3.
+3. [**Active Buzzer**](./Active_Buzzer/sketch_jun05c) - This project uses an active buzzer controlled by Arduino UNO R3.
 
-4. **Blink**
-   - Description: A simple project that makes an LED blink using Arduino UNO R3.
+4. [**Blink**](./Blink/sketch_jun04b) - A simple project that makes an LED blink using Arduino UNO R3.
 
-5. **Controlling Stepper Motor with Remote**
-   - Description: This project demonstrates how to control a stepper motor using a remote with Arduino UNO R3.
+5. [**Controlling Stepper Motor with Remote**](./Controlling Stepper Motor with Remote/sketch_jun06a) - This project demonstrates how to control a stepper motor using a remote with Arduino UNO R3.
 
-6. **DC Motor using Power supply and L293D**
-   - Description: This project involves controlling a DC motor using a power supply and L293D motor driver with Arduino UNO R3.
+6. [**DC Motor using Power supply and L293D**](./DC Motor using Power supply and L293D/sketch_jun06a) - This project involves controlling a DC motor using a power supply and L293D motor driver with Arduino UNO R3.
 
-7. **DHT11**
-   - Description: This project uses a DHT11 temperature and humidity sensor with Arduino UNO R3 to measure environmental conditions.
+7. [**DHT11**](./DHT11/sketch_jun06a) - This project uses a DHT11 temperature and humidity sensor with Arduino UNO R3 to measure environmental conditions.
 
-8. **Digital Input**
-   - Description: This project demonstrates digital input using push buttons with Arduino UNO R3.
+8. [**Digital Input**](./Digital_Input/sketch_jun05b) - This project demonstrates digital input using push buttons with Arduino UNO R3.
 
-9. **Eight LEDs with 74HC595**
-   - Description: This project shows how to control eight LEDs using a 74HC595 shift register with Arduino UNO R3.
+9. [**Eight LEDs with 74HC595**](./Eight LEDs with 74HC595/sketch_jun05a) - This project shows how to control eight LEDs using a 74HC595 shift register with Arduino UNO R3.
 
-10. **IR Receiver Module**
-    - Description: This project uses an IR receiver module to receive and decode signals with Arduino UNO R3.
+10. [**IR Receiver Module**](./IR Receiver Module/sketch_jun04a) - This project uses an IR receiver module to receive and decode signals with Arduino UNO R3.
 
-11. **JoyStick Module**
-    - Description: This project involves using a joystick module with Arduino UNO R3 for control input.
+11. [**JoyStick Module**](./JoyStick Module/sketch_jun04a) - This project involves using a joystick module with Arduino UNO R3 for control input.
 
-12. **LCD Display**
-    - Description: This project demonstrates the use of an LCD display with Arduino UNO R3.
+12. [**LCD Display**](./LCD display/sketch_jun04a) - This project demonstrates the use of an LCD display with Arduino UNO R3.
 
-13. **LED Flasher**
-    - Description: A simple project that makes an LED flash using Arduino UNO R3.
+13. [**LED Flasher**](./LED Flasher/sketch_jun04a) - A simple project that makes an LED flash using Arduino UNO R3.
 
-14. **Passive Buzzer**
-    - Description: This project uses a passive buzzer controlled by Arduino UNO R3.
+14. [**Passive Buzzer**](./Passive Buzzer/sketch_jun04a) - This project uses a passive buzzer controlled by Arduino UNO R3.
 
-15. **Photoresistor**
-    - Description: This project uses a photoresistor to measure light intensity with Arduino UNO R3.
+15. [**Photoresistor**](./Photoresistor/sketch_jun04a) - This project uses a photoresistor to measure light intensity with Arduino UNO R3.
 
-16. **RGB LED**
-    - Description: This project involves controlling an RGB LED with Arduino UNO R3.
+16. [**RGB LED**](./RGB LED/sketch_jun04a) - This project involves controlling an RGB LED with Arduino UNO R3.
 
-17. **Relay**
-    - Description: This project uses a relay module for controlling high voltage devices with Arduino UNO R3.
+17. [**Relay**](./Relay/sketch_jun04a) - This project uses a relay module for controlling high voltage devices with Arduino UNO R3.
 
-18. **Serial Monitor**
-    - Description: This project involves using the serial monitor for debugging with Arduino UNO R3.
+18. [**Serial Monitor**](./Serial Monitor/sketch_jun04a) - This project involves using the serial monitor for debugging with Arduino UNO R3.
 
-19. **Servo Motor**
-    - Description: This project demonstrates the use of a servo motor with Arduino UNO R3.
+19. [**Servo Motor**](./Servo Motor/sketch_jun04a) - This project demonstrates the use of a servo motor with Arduino UNO R3.
 
-20. **Seven Segment Display**
-    - Description: This project uses a seven-segment display with Arduino UNO R3 for numeric display.
+20. [**Seven Segment Display**](./Seven Segment Display/sketch_jun04a) - This project uses a seven-segment display with Arduino UNO R3 for numeric display.
 
-21. **Stepper Motor**
-    - Description: This project demonstrates the use of a stepper motor with Arduino UNO R3.
+21. [**Stepper Motor**](./Stepper Motor/sketch_jun04a) - This project demonstrates the use of a stepper motor with Arduino UNO R3.
 
-22. **Tilt Switch**
-    - Description: This project uses a tilt switch as a sensor with Arduino UNO R3.
+22. [**Tilt Switch**](./Tilt Switch/sketch_jun04a) - This project uses a tilt switch as a sensor with Arduino UNO R3.
 
-23. **Ultrasonic Sensor**
-    - Description: This project involves using an ultrasonic sensor with Arduino UNO R3 for distance measurement.
+23. [**Ultrasonic Sensor**](./Ultrasonic Sensor/sketch_jun04a) - This project involves using an ultrasonic sensor with Arduino UNO R3 for distance measurement.
+
+... (continue with other projects)
 
 ## Usage
 
